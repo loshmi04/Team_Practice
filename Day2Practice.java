@@ -5,4 +5,6 @@ public class Day2Practice {
     // we are doing great
 
     // thank you for practice
+
+    // we will do better really soon
 }
